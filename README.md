@@ -30,7 +30,6 @@
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="50" title="css3" /></td>
 </tr>
 </table>
-<br/>
 
 ## Reach me at
 <table>
@@ -46,7 +45,6 @@
 </td>
 </tr>
 </table>
-</br>
 
 ![](https://github.com/yanoandri/yanoandri-github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/yanoandri/yanoandri-github-stats/blob/master/generated/language.svg)
