@@ -46,7 +46,7 @@
 </tr>
 </table>
 
-### 🌠
+### ⭐
 ![](https://github.com/yanoandri/yanoandri-github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/yanoandri/yanoandri-github-stats/blob/master/generated/languages.svg)
 
