@@ -3,9 +3,7 @@
    :beginner: My name is Yano Andriyanto, and i work as a Software Engineer  
    :mag_right: I enjoy learning new stuff for backend and frontend tech stacks  
    :moneybag: Currently working in fintech industry  
-</br>
 ## Tech Stacks
-</br>
 
 ### Backend
 <table>
@@ -32,7 +30,6 @@
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="50" title="css3" /></td>
 </tr>
 </table>
-
 <br/>
 
 ## Reach me at
