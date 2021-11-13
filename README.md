@@ -5,7 +5,7 @@
    :moneybag: Currently working in fintech industry  
 ## Tech Stacks
 
-### Backend
+### ⚙️ Backend
 <table>
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="50" title="JavaScript" /></td>
@@ -21,7 +21,7 @@
 </tr>
 </table>
 
-### Frontend
+### 🕸️ Frontend
 <table>
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/vue.svg" width="50" title="vue" /></td>
@@ -31,7 +31,7 @@
 </tr>
 </table>
 
-## Reach me at
+## 🤙 Reach me at
 <table>
 <tr>
 <td>
@@ -46,6 +46,7 @@
 </tr>
 </table>
 
+### 🌠
 ![](https://github.com/yanoandri/yanoandri-github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/yanoandri/yanoandri-github-stats/blob/master/generated/languages.svg)
 
