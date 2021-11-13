@@ -1,7 +1,7 @@
 ## Greetings 👋
 
    :beginner: My name is Yano Andriyanto, and i work as a Software Engineer  
-   :mag_right: I enjoy learning new stuff for backend and frontend tech stacks  
+   :mag_right: I enjoy learning new stuff for fullstack web developer tech stacks  
    :moneybag: Currently working in fintech industry  
 ## Tech Stacks
 
